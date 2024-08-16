@@ -1,0 +1,22 @@
+{
+  "name": "svg-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^10.1.8"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
